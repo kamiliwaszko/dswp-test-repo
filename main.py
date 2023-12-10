@@ -1,3 +1,3 @@
 def funkcja():
-    """funcja, któea nic nie robi"""
+    """funkcja, któea nic nie robi"""
     pass
